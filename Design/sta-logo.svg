@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" fill="none">
+  <title>sta. — your studies, together</title>
+  <g stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M65 40C53 31 24 32 24 49C24 66 66 56 66 74C66 93 36 94 22 83" stroke="#8D86CF"/>
+    <path d="M99 20V74Q99 89 116 85M82 41H119" stroke="#6DB8AC"/>
+    <path d="M175 42V86M174 55C174 30 132 33 132 63C132 93 174 95 174 69" stroke="#526DA9"/>
+  </g>
+  <circle cx="206" cy="84" r="8" fill="#6DB8AC"/>
+</svg>

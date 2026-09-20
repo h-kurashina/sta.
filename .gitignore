@@ -1,0 +1,18 @@
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Local signing, builds, and device data
+*.ipa
+*.xcarchive
+*.xcresult
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.p8
+*.key
+.env
+.env.*
+!*.example
